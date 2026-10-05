@@ -1,12 +1,19 @@
 {
   "name": "ai-studybuddyapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "AI StudyBuddy API using Node.js, Express, MongoDB and Gemini AI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "ai",
+    "studybuddy",
+    "api",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
